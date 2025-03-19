@@ -2,4 +2,13 @@
     "unotes.editor.convertPastedImages": true,
     "unotes.editor.display2X": false,
     "Notes.notesLocation": "./",
+    "cSpell.language": "en, pl",
+    "cSpell.words": [
+        "dtdinst",
+        "jing",
+        "trang"
+    ],
+    "cSpell.dictionaries": [
+        "typescript", "deno","powershell","markdown", "html", "css", "xml"
+    ],
 }

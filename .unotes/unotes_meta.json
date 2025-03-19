@@ -648,6 +648,14 @@
         }
       },
       "files": {}
+    },
+    "bin": {
+      "name": "bin",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "README": 0
+      }
     }
   },
   "files": {

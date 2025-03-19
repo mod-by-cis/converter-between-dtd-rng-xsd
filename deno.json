@@ -1,0 +1,9 @@
+{
+  "name": "@mod-by-cis/converter-between-dtd-rng-xsd",
+  "version": "0.0.1",
+  "exports": "./mod.ts",  
+  "license": "MIT",
+  "tasks": {
+    "try01": "deno --watch --allow-read --allow-net  example/try-01.ts"
+  }
+}
