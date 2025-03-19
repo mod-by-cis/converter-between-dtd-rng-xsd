@@ -1,0 +1,3 @@
+[submodule "dev/repositories/relaxng-jing-trang"]
+	path = dev/repositories/relaxng-jing-trang
+	url = https://github.com/relaxng/jing-trang.git

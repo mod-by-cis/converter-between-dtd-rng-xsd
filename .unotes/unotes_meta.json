@@ -1,0 +1,373 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "dev": {
+      "name": "dev",
+      "isOrdered": true,
+      "folders": {
+        "repositories": {
+          "name": "repositories",
+          "isOrdered": true,
+          "folders": {
+            "relaxng-jing-trang": {
+              "name": "relaxng-jing-trang",
+              "isOrdered": true,
+              "folders": {
+                "convert": {
+                  "name": "convert",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "datatype-sample": {
+                  "name": "datatype-sample",
+                  "isOrdered": true,
+                  "folders": {
+                    "src": {
+                      "name": "src",
+                      "isOrdered": true,
+                      "folders": {
+                        "com": {
+                          "name": "com",
+                          "isOrdered": true,
+                          "folders": {
+                            "thaiopensource": {
+                              "name": "thaiopensource",
+                              "isOrdered": true,
+                              "folders": {
+                                "datatype": {
+                                  "name": "datatype",
+                                  "isOrdered": true,
+                                  "folders": {
+                                    "sample": {
+                                      "name": "sample",
+                                      "isOrdered": true,
+                                      "folders": {},
+                                      "files": {}
+                                    }
+                                  },
+                                  "files": {}
+                                }
+                              },
+                              "files": {}
+                            }
+                          },
+                          "files": {}
+                        },
+                        "META-INF": {
+                          "name": "META-INF",
+                          "isOrdered": true,
+                          "folders": {
+                            "services": {
+                              "name": "services",
+                              "isOrdered": true,
+                              "folders": {},
+                              "files": {}
+                            }
+                          },
+                          "files": {}
+                        }
+                      },
+                      "files": {}
+                    }
+                  },
+                  "files": {}
+                },
+                "doc": {
+                  "name": "doc",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {
+                    "README": 0
+                  }
+                },
+                "dtdinst": {
+                  "name": "dtdinst",
+                  "isOrdered": true,
+                  "folders": {
+                    "example": {
+                      "name": "example",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    }
+                  },
+                  "files": {}
+                },
+                "eg": {
+                  "name": "eg",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "extapidoc": {
+                  "name": "extapidoc",
+                  "isOrdered": true,
+                  "folders": {
+                    "jaxp": {
+                      "name": "jaxp",
+                      "isOrdered": true,
+                      "folders": {
+                        "1.1": {
+                          "name": "1.1",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
+                      "files": {}
+                    },
+                    "jdk": {
+                      "name": "jdk",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "sax": {
+                      "name": "sax",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    }
+                  },
+                  "files": {}
+                },
+                "gcj": {
+                  "name": "gcj",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "lib": {
+                  "name": "lib",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "mod": {
+                  "name": "mod",
+                  "isOrdered": true,
+                  "folders": {
+                    "catalog": {
+                      "name": "catalog",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "convert-from-dtd": {
+                      "name": "convert-from-dtd",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "convert-from-xml": {
+                      "name": "convert-from-xml",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "convert-to-dtd": {
+                      "name": "convert-to-dtd",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "convert-to-xsd": {
+                      "name": "convert-to-xsd",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "datatype": {
+                      "name": "datatype",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "dtd-parse": {
+                      "name": "dtd-parse",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "dtdinst": {
+                      "name": "dtdinst",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "infer": {
+                      "name": "infer",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "jaxp": {
+                      "name": "jaxp",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "jing": {
+                      "name": "jing",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "nvdl": {
+                      "name": "nvdl",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "pattern": {
+                      "name": "pattern",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "picl": {
+                      "name": "picl",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "regex-gen": {
+                      "name": "regex-gen",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "regex": {
+                      "name": "regex",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "resolver": {
+                      "name": "resolver",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "rng-jarv": {
+                      "name": "rng-jarv",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "rng-jaxp": {
+                      "name": "rng-jaxp",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "rng-parse": {
+                      "name": "rng-parse",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "rng-schema": {
+                      "name": "rng-schema",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "rng-validate": {
+                      "name": "rng-validate",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "schematron": {
+                      "name": "schematron",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "trang": {
+                      "name": "trang",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "util": {
+                      "name": "util",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "validate": {
+                      "name": "validate",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "xerces": {
+                      "name": "xerces",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "xsd-datatype": {
+                      "name": "xsd-datatype",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    }
+                  },
+                  "files": {}
+                },
+                "relaxng.org": {
+                  "name": "relaxng.org",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "test": {
+                  "name": "test",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "trang": {
+                  "name": "trang",
+                  "isOrdered": true,
+                  "folders": {
+                    "doc": {
+                      "name": "doc",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "test": {
+                      "name": "test",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    }
+                  },
+                  "files": {}
+                },
+                "xhtml": {
+                  "name": "xhtml",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
+              "files": {}
+            }
+          },
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
