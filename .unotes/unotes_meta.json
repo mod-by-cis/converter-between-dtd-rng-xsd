@@ -121,7 +121,26 @@
                     "jdk": {
                       "name": "jdk",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "1.3": {
+                          "name": "1.3",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "1.5": {
+                          "name": "1.5",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "1.6": {
+                          "name": "1.6",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "sax": {
@@ -152,61 +171,143 @@
                     "catalog": {
                       "name": "catalog",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "convert-from-dtd": {
                       "name": "convert-from-dtd",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "convert-from-xml": {
                       "name": "convert-from-xml",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "convert-to-dtd": {
                       "name": "convert-to-dtd",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "convert-to-xsd": {
                       "name": "convert-to-xsd",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "datatype": {
                       "name": "datatype",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "dtd-parse": {
                       "name": "dtd-parse",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "dtdinst": {
                       "name": "dtdinst",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "infer": {
                       "name": "infer",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "jaxp": {
                       "name": "jaxp",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "jing": {
@@ -218,103 +319,270 @@
                     "nvdl": {
                       "name": "nvdl",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "pattern": {
                       "name": "pattern",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "picl": {
                       "name": "picl",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "regex-gen": {
                       "name": "regex-gen",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "regex": {
                       "name": "regex",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "resolver": {
                       "name": "resolver",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "rng-jarv": {
                       "name": "rng-jarv",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "rng-jaxp": {
                       "name": "rng-jaxp",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "rng-parse": {
                       "name": "rng-parse",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "rng-schema": {
                       "name": "rng-schema",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "rng-validate": {
                       "name": "rng-validate",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "schematron": {
                       "name": "schematron",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "lib": {
+                          "name": "lib",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "trang": {
                       "name": "trang",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "util": {
                       "name": "util",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "validate": {
                       "name": "validate",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "xerces": {
                       "name": "xerces",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     },
                     "xsd-datatype": {
                       "name": "xsd-datatype",
                       "isOrdered": true,
-                      "folders": {},
+                      "folders": {
+                        "src": {
+                          "name": "src",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        },
+                        "test": {
+                          "name": "test",
+                          "isOrdered": true,
+                          "folders": {},
+                          "files": {}
+                        }
+                      },
                       "files": {}
                     }
                   },
@@ -354,14 +622,29 @@
                 "xhtml": {
                   "name": "xhtml",
                   "isOrdered": true,
-                  "folders": {},
+                  "folders": {
+                    "exclude": {
+                      "name": "exclude",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    },
+                    "modules": {
+                      "name": "modules",
+                      "isOrdered": true,
+                      "folders": {},
+                      "files": {}
+                    }
+                  },
                   "files": {}
                 }
               },
               "files": {}
             }
           },
-          "files": {}
+          "files": {
+            "relaxng-jing-trang": 0
+          }
         }
       },
       "files": {}

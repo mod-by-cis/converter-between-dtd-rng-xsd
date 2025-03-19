@@ -1,5 +1,5 @@
 {
-    "unotes.rootPath": "./",
     "unotes.editor.convertPastedImages": true,
-    "unotes.editor.display2X": false
+    "unotes.editor.display2X": false,
+    "Notes.notesLocation": "./",
 }
