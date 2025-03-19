@@ -4,6 +4,6 @@
   "exports": "./mod.ts",  
   "license": "MIT",
   "tasks": {
-    "try01": "deno --watch --allow-read --allow-net  example/try-01.ts"
+    "try01": "deno --watch --allow-read --allow-net  --allow-write --allow-run  example/try-01.ts"
   }
 }
