@@ -1,0 +1,19 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@std/fmt@*": "1.0.6",
+    "jsr:@std/path@*": "1.0.8"
+  },
+  "jsr": {
+    "@std/fmt@1.0.6": {
+      "integrity": "a2c56a69a2369876ddb3ad6a500bb6501b5bad47bb3ea16bfb0c18974d2661fc"
+    },
+    "@std/path@1.0.8": {
+      "integrity": "548fa456bb6a04d3c1a1e7477986b6cffbce95102d0bb447c67c4ee70e0364be"
+    }
+  },
+  "remote": {
+    "https://raw.githubusercontent.com/mod-by-cis/console-extended/refs/tags/v0.0.1/mod.ts": "b4025b44dc64eec35b285e6aff5fdd1865e6b91c701a091a06bab6ee3bf11705",
+    "https://raw.githubusercontent.com/mod-by-cis/console-style-text/refs/tags/v0.0.2/mod.ts": "8b626b8dbb2542a07b1465444994ac625fbd5081466109da184cdf34a38370cf"
+  }
+}
