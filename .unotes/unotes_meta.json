@@ -652,10 +652,23 @@
     "bin": {
       "name": "bin",
       "isOrdered": true,
-      "folders": {},
+      "folders": {
+        "java": {
+          "name": "java",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
       "files": {
         "README": 0
       }
+    },
+    "example": {
+      "name": "example",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
     }
   },
   "files": {
