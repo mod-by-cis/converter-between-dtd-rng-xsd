@@ -1,12 +1,17 @@
-import { ConverterBetweenDtdRngXsd } from "../mod.ts";
+import { 
+  ConverterBetweenDtdRngXsd,
+  Convert 
+} from "../mod.ts";
 
-
-// **Przykładowe użycie**
 const manager = new ConverterBetweenDtdRngXsd({
-  dtdinstJar: `${Deno.cwd()}/bin2/java/dtdinst.jar`,
-  trangJar: `${Deno.cwd()}/bin2/java/trang.jar`,
+  dtdinstJar: `${Deno.cwd()}/bin/java/dtdinst.jar`,
+  trangJar: `${Deno.cwd()}/bin/java/trang.jar`,
 });
 
 manager.initialize().then(() => {
-  console.log("Status plików:");
+  console.log(" (^_^) ");
+  manager.convertBetween([Convert.RNG, Convert.XSD], "example/models", "test__from-DTD");
+
 }).catch(console.error);
+
+await manager.convertBetween([Convert.DTD, Convert.RNG], "example/models", "test");

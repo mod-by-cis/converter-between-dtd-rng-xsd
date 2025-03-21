@@ -104,7 +104,7 @@ export class ConverterBetweenDtdRngXsd {
             }            
             MESSAGE('fileConvertSuccess_LOG', true, { input: inputPath, output: outputPath });
         } else {
-            MESSAGE('fileConvert_ERROR_LOG', true, { input: inputPath, textForDecode: output.stderr });
+            MESSAGE('fileConvert_ERROR_LOG', true, { input: inputPath, output: outputPath, textForDecode: output.stderr });
         }
     }
 

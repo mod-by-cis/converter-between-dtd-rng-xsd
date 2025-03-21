@@ -50,12 +50,21 @@ export function MESSAGE(key: MessageKey, whenTRUE: boolean, args?: Record<string
         }],
         ["fileConvertSuccess_LOG", (whenTRUE: boolean, args: { input: string; output: string; }) => {
             if (whenTRUE) {
-                console.log(`Pomyślnie przetworzono ${args.input} do ${args.output}`);
+                console.error(`${t.t(' KONWERTOWANIE POWIODŁO SIĘ ').s("b").c(0x121111,0x87ad6d)._}`);
+                console.group();
+                console.error(`${args.input}:`);
+                console.error(`${args.output}:`);
+                console.groupEnd();
             }
-        }],
-        ["fileConvert_ERROR_LOG", (whenTRUE: boolean, args: { input: string; textForDecode: Uint8Array<ArrayBuffer>; }) => {
+        }],        
+        ["fileConvert_ERROR_LOG", (whenTRUE: boolean, args: { input: string; output: string; textForDecode: Uint8Array<ArrayBuffer>; }) => {
             if (whenTRUE) {
-                console.error(`Błąd podczas przetwarzania ${args.input}:`, new TextDecoder().decode(args.textForDecode));
+                console.error(`${t.t(' KONWERTOWANIE NIE POWIODŁO SIĘ ').s("b").c(0x121111,0xc06b6e)._}`);
+                console.group();
+                console.error(`${args.input}:`);
+                console.error(`${args.output}:`);
+                console.error(new TextDecoder().decode(args.textForDecode));
+                console.groupEnd();
             }
         }],
         ["parseName_ERROR_THROW", (whenTRUE: boolean, args: { name: string; }) => {
